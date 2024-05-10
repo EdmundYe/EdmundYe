@@ -1,4 +1,8 @@
 ### Hi there 👋
+### My name is Edmund and I am a Computer Science Student at Carleton University
+### I enjoy listening to music! My favourite artist is Eaj (AKA Jae Park from day6)
+### I am currently working towards getting better at full stack development by improving my skills in Javascript, HTML/CSS and Python
+### You can reach me at edmundye@cmail.carleton.ca
 
 <!--
 **EdmundYe/EdmundYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

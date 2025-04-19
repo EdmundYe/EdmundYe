@@ -1,5 +1,5 @@
 ### 👋 Hi there! My name is Edmund and I am a Computer Science Student at Carleton University
-### 🎧 I enjoy listening to music! My favourite artist is Eaj (AKA Jae Park from day6)
+### 🎧 I enjoy listening to music!
 ### 🌱 I am currently working towards improving my skills in Javascript, HTML/CSS and Python
 ### 📫 You can reach me at edmundye@cmail.carleton.ca
 

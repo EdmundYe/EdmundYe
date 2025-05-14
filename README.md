@@ -1,6 +1,4 @@
 ### 👋 Hi there! My name is Edmund and I am a Computer Science Student at Carleton University
-### 🎧 I enjoy listening to music!
-### 🌱 I am currently working towards improving my skills in Javascript, HTML/CSS and Python
 ### 📫 You can reach me at edmundye@cmail.carleton.ca
 
 <!--
